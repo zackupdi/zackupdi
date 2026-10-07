@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineering graduate and developer** passionate about creating practical, reliable, and user-focused software systems.
+I'm a **Software Engineering and developer** passionate about creating practical, reliable, and user-focused software systems.
 
 I enjoy turning ideas into real products — from **database design and backend architecture** to responsive interfaces and complete management systems.
 
-* 🎓 Software Engineering Graduate
+* 🎓 Software Engineering
 * 💻 Full-Stack Developer
 * 🐍 Python & Django Developer
 * 🌐 Web Application Developer
